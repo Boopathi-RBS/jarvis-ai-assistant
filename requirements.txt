@@ -1,0 +1,10 @@
+customtkinter
+sounddevice
+soundfile
+SpeechRecognition
+edge-tts
+pygame
+python-vlc
+Pillow
+pystray
+requests
